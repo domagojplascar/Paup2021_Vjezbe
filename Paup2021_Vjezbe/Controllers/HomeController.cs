@@ -15,7 +15,7 @@ namespace Paup2021_Vjezbe.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your applicatio page.";
 
             return View();
         }
